@@ -70,7 +70,8 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/* Changed .content class to main tag */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
